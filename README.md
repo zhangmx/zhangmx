@@ -6,7 +6,7 @@ I'm a software engineer work at Shanghai.
 
 ### I'm currently learning 🐱‍👓
 
-- JAVA,Golang,RUST,swift
+- JAVA, ~~Golang,RUST,swift~~
 
 ### Get in touch 😁
 
@@ -14,9 +14,12 @@ I'm a software engineer work at Shanghai.
 
 <details>
   <summary><b>:telescope: 2020 goal</b></summary>
-  I want to make a little change of my life.Stay alive.<br>
+  I want to make a little change of my life.Stay alive<ins>【sucessed】<ins>.<br>
 </details>
-
+<details>
+  <summary><b>:telescope: 2021 goal</b></summary>
+  I want to make a little more change of my life.<br>
+</details>
 <!--
 **zhangmx/zhangmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
