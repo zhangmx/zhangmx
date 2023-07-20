@@ -6,7 +6,7 @@ I'm a software engineer work ~~at Shanghai~~.
 
 ### I'm currently learning 🐱‍👓
 
-- JAVA, ~~Golang,RUST,swift~~
+- So many things to learn, too hard to the end. 
 
 ### Get in touch 😁
 
