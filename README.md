@@ -20,6 +20,8 @@ I'm a software engineer work ~~at Shanghai~~.
   <summary><b>:telescope: 2021 goal</b></summary>
   I want to make a little more change of my life.<br>
 </details>
+    
+By accident, I lost 2022, 2023, and even 2024.
 <!--
 **zhangmx/zhangmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
